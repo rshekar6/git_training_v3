@@ -1,8 +1,0 @@
-this is the new train file
-hello students this is the training 
-
-
-hello world 
-welcome to the world of java
-
-happy holidays
